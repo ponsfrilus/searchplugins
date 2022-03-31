@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <!-- Created on Wed, 17 Aug 2016 16:06:59 GMT -->
+  <ShortName>Unités EPFL</ShortName>
+  <Description>Unités EPFL</Description>
+  <Url type="text/html" method="get" template="http://search.epfl.ch/usearch.action?q={searchTerms}&amp;request_locale=fr&amp;origin=header"/>
+  <Image width="16" height="16">https://mycroftproject.com/updateos.php/id0/epfl-orgs-fr.png</Image>
+  <Developer>Dominique Quatravaux</Developer>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>http://search.epfl.ch/usearch.action</moz:SearchForm>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mycroftproject.com/updateos.php/id0/epfl-orgs-fr.xml"/>
+</OpenSearchDescription>

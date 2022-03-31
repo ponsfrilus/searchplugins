@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <!-- Created on Tue, 17 Jan 2017 15:26:27 GMT -->
+  <ShortName>EPFL Map</ShortName>
+  <Description>Search plan.epfl.ch</Description>
+  <Url type="text/html" method="get" template="https://plan.epfl.ch/theme/generalite_thm_v2?request_locale=en&amp;room={searchTerms}"/>
+  <Url type="application/x-suggestions+json" template="https://plan.epfl.ch/prod/wsgi/search?interface=main&amp;limit=20&amp;query={searchTerms}*"/>
+  <Image width="16" height="16">https://mycroftproject.com/updateos.php/id0/epfl-map.png</Image>
+  <Developer>Nicolas Borboën</Developer>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>https://plan.epfl.ch</moz:SearchForm>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mycroftproject.com/updateos.php/id0/epfl-map.xml"/>
+</OpenSearchDescription>

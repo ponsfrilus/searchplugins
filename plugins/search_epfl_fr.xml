@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <!-- Created on Wed, 28 Oct 2009 12:13:22 GMT -->
+  <ShortName>EPFL Outils de recherche (FR)</ShortName>
+  <Description>EPFL Plugin pour les Outils de recherche (FR)</Description>
+  <Url type="text/html" method="get" template="http://search.epfl.ch/web.do?lang=fr&amp;q={searchTerms}&amp;output=xml_no_dtd&amp;ie=latin1&amp;oe=latin1&amp;hl=fr"/>
+  <Image width="16" height="16">https://mycroftproject.com/updateos.php/id0/search_epfl_fr.gif</Image>
+  <Developer>Nicolas Borboën</Developer>
+  <InputEncoding>ISO-8859-1</InputEncoding>
+  <moz:SearchForm>http://search.epfl.ch/web.do?lang=fr</moz:SearchForm>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mycroftproject.com/updateos.php/id0/search_epfl_fr.xml"/>
+</OpenSearchDescription>
