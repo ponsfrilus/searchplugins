@@ -2,6 +2,7 @@
 
 TL;DR please visit https://ponsfrilus.github.io/searchplugins/
 
+## About
 
 A collection of search plugins for [EPFL](https://www.epfl.ch) using
 [OpenSearch](https://en.wikipedia.org/wiki/OpenSearch) hosted on GitHub pages.
