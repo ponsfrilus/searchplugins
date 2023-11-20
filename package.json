@@ -1,0 +1,23 @@
+{
+  "name": "epfl-opensearch",
+  "version": "1.0.0",
+  "description": "Collection of EPFL OpenSearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponsfrilus/searchplugins.git"
+  },
+  "keywords": [
+    "EPFL",
+    "OpenSearch"
+  ],
+  "author": "Nicolas Borboën <nicolas.borboen@epfl.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ponsfrilus/searchplugins/issues"
+  },
+  "homepage": "https://github.com/ponsfrilus/searchplugins#readme"
+}
