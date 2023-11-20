@@ -74,7 +74,7 @@ for (const element of data) {
     opensearch_data
   );
 
-  if (appArgs.image?.startsWith("http")) {
+  if (appArgs.image !== undefined && appArgs.image.startsWith("http")) {
     opensearch_info += `        <li><a href="${element.searchURL}" target="_blank"><img src="${appArgs.image}${element.image["16"]}" /></a> <b>${element.shortName}</b> (${element.description})</li>\n`;
   } else {
     opensearch_info += `        <li><a href="${
@@ -103,7 +103,7 @@ function generateOpenSearchXML(data) {
   let images = "";
   let iterations = data.image.length;
   for (const img in data.image) {
-    if (appArgs.image?.startsWith("http")) {
+    if (appArgs.image !== undefined  && appArgs.image.startsWith("http")) {
       images += `    <Image height="${img}" width="${img}">${appArgs.image}${data.image[img]}</Image>`;
     } else {
       images += `    <Image height="${img}" width="${img}">${generateDataImage(
