@@ -1,0 +1,146 @@
+[
+    {
+        "name": "geoportail",
+        "shortName": "EPFL Geoportail",
+        "description": "Geoportail is the internal geolocation tool at EPFL",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-geoportail.ico",
+            "64": "./img/epfl-search-geoportail.png"
+        },
+        "searchURL": "https://geoportail.epfl.ch/",
+        "searchQueryURL": "https://geoportail.epfl.ch/?room={searchTerms}"
+    },
+    {
+        "name": "images",
+        "shortName": "EPFL Search images",
+        "description": "Search EPFL images",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-images.ico",
+            "64": "./img/epfl-search-images.png"
+        },
+        "searchURL": "https://search.epfl.ch/?q=EPFL&amp;type=image",
+        "searchQueryURL": "https://search.epfl.ch/?q=EPFL&amp;type=image&amp;p={searchTerms}"
+    },
+    {
+        "name": "infoscience",
+        "shortName": "EPFL Infoscience",
+        "description": "Infoscience is the EPFL institutional archive",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-infoscience.ico",
+            "64": "./img/epfl-search-infoscience.png"
+        },
+        "searchURL": "https://infoscience.epfl.ch/search",
+        "searchQueryURL": "https://infoscience.epfl.ch/search?ln=en&amp;p={searchTerms}&amp;f="
+    },
+    {
+        "name": "inside",
+        "shortName": "EPFL Search inside",
+        "description": "Search EPFL inside",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-inside.ico",
+            "64": "./img/epfl-search-inside.png"
+        },
+        "searchURL": "https://search.epfl.ch/?filter=inside",
+        "searchQueryURL": "https://search.epfl.ch/?filter=inside&amp;q={searchTerms}"
+    },
+    {
+        "name": "library",
+        "shortName": "EPFL Library",
+        "description": "BEAST — Books, Ebooks and Articles Search Tool",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-library.ico",
+            "64": "./img/epfl-search-library.png"
+        },
+        "searchURL": "https://www.epfl.ch/campus/library/",
+        "searchQueryURL": "https://epfl.swisscovery.slsp.ch/discovery/search?tab=41SLSP_EPF_MyInst_and_CI&amp;search_scope=MyInst_and_CI&amp;vid=41SLSP_EPF:prod&amp;lang=en&amp;facet=rtype,exclude,reviews,lk&amp;query=any,contains,{searchTerms}"
+    },
+    {
+        "name": "network",
+        "shortName": "EPFL Network",
+        "description": "Search the EPFL network",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-network.ico",
+            "64": "./img/epfl-search-network.png"
+        },
+        "searchURL": "https://network.epfl.ch/epnet/sre.pl/annuaire",
+        "searchQueryURL": "https://network.epfl.ch/epnet/sre.pl/annuaire?etape=affiche_liste_mach&amp;nom={searchTerms}*&amp;adrip=&amp;unite=&amp;local=&amp;adrether=&amp;resp="
+    },
+    {
+        "name": "news",
+        "shortName": "EPFL News",
+        "description": "Search the EPFL news",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-news.ico",
+            "64": "./img/epfl-search-news.png"
+        },
+        "searchURL": "https://search.epfl.ch/?filter=news",
+        "searchQueryURL": "https://search.epfl.ch/?filter=news&amp;q={searchTerms}"
+    },
+    {
+        "name": "people",
+        "shortName": "EPFL People",
+        "description": "Search the EPFL people directory",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-people.ico",
+            "64": "./img/epfl-search-people.png"
+        },
+        "searchURL": "https://search.epfl.ch/?filter=people",
+        "searchQueryURL": "https://search.epfl.ch/?filter=people&amp;q={searchTerms}"
+    },
+    {
+        "name": "plan",
+        "shortName": "EPFL Map",
+        "description": "Search EPFL map",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-map.ico",
+            "64": "./img/epfl-search-map.png"
+        },
+        "searchURL": "https://plan.epfl.ch",
+        "searchQueryURL": "https://plan.epfl.ch/theme/generalite_thm_v2?request_locale=en&amp;room={searchTerms}"
+    },
+    {
+        "name": "units",
+        "shortName": "EPFL Units",
+        "description": "Search the EPFL units directory",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-units.ico",
+            "64": "./img/epfl-search-units.png"
+        },
+        "searchURL": "https://search.epfl.ch/?filter=unit",
+        "searchQueryURL": "https://search.epfl.ch/?filter=unit&amp;q={searchTerms}"
+    },
+    {
+        "name": "search",
+        "shortName": "EPFL Search",
+        "description": "Search EPFL",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search.ico",
+            "64": "./img/epfl-search.png"
+        },
+        "searchURL": "https://search.epfl.ch/",
+        "searchQueryURL": "https://search.epfl.ch/?q={searchTerms}"
+    },
+    {
+        "name": "servicenow",
+        "shortName": "EPFL ServiceNow",
+        "description": "Search EPFL ServiceNow",
+        "contact": "nicolas.borboen@epfl.ch",
+        "image": {
+            "16": "./img/epfl-search-servicenow.ico",
+            "64": "./img/epfl-search-servicenow.png"
+        },
+        "searchURL": "https://support.epfl.ch/backoffice/",
+        "searchQueryURL": "https://search.epfl.ch/?q={searchTerms}"
+    }
+]
