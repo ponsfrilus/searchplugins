@@ -1,5 +1,8 @@
 # EPFL search plugins
 
+TL;DR please visit https://ponsfrilus.github.io/searchplugins/
+
+
 A collection of search plugins for [EPFL](https://www.epfl.ch) using
 [OpenSearch](https://en.wikipedia.org/wiki/OpenSearch) hosted on GitHub pages.
 
@@ -16,14 +19,14 @@ Google Chrome (see this
 
 ## Add / Generate plugins
 
-While it sould be built on push with GitHub actions (WIP), you can generate 
-the plugins' XML files and the HTML that reference them by end, running 
+While it sould be built on push with GitHub actions, you can generate the
+plugins' XML files and the HTML that reference them by hand, running:
 
 ```bash
 node index.js
 ```
 
-It take data from [list.json](./list.json) and output plugins XML files in the
+It takes data from [list.json](./list.json) and output plugins XML files in the
 [opensearch](./opensearch) directory.
 
 :warning: when adding a new plugin, you have to add the corresponding icons in
@@ -37,7 +40,7 @@ Please run `node index.js --help` to see available options.
 
 ## Plugins list
 
-The plugins list stand in the [list.json](./list.json) file. When adding a new
+The plugins list stands in the [list.json](./list.json) file. When adding a new
 search plugin, `name`, `shortName`, `description`, `contact`, `image`, 
 `searchURL` and `searchQueryURL` have to be set.
 
@@ -48,7 +51,7 @@ search plugin, `name`, `shortName`, `description`, `contact`, `image`,
 > "image/x-icon" or "image/vnd.microsoft.icon" (the Microsoft ICO format) and a
 > 64x64 image of type "image/jpeg" or "image/png".
 
-Each icons of this repo has a "epfl-search-service.svg" image, in the
+Each icons of this repo has a `epfl-search-service.svg` image, in the
 [img](./img) directory. Use this [svg] image to generate the 16×16 image of
 type `image/x-icon` and a 64×64 image of `image/png`. It's pretty easy with
 [imagemagick]: 
