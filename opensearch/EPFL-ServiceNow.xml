@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                         xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <!-- Last generated on 2023-11-20T17:14:37.666Z -->
+    <ShortName>EPFL ServiceNow</ShortName>
+    <Description>EPFL ServiceNow</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image height="16" width="16">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-servicenow.ico</Image>
+    <Image height="64" width="64">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-servicenow.png</Image>
+
+    <Url type="text/html" method="get" template="https://search.epfl.ch/?q={searchTerms}"/>
+    <moz:SearchForm>https://support.epfl.ch/backoffice/</moz:SearchForm>
+    <Contact>nicolas.borboen@epfl.ch</Contact>
+    <Developer>nicolas.borboen@epfl.ch</Developer>
+  </OpenSearchDescription>
