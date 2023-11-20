@@ -103,10 +103,12 @@ function generateOpenSearchXML(data) {
   let images = "";
   let iterations = data.image.length;
   for (const img in data.image) {
+    const file_ext = data.image[img].split(".").pop();
+    const file_type_str = (file_ext === "png") ? `type="image/png"` : ((file_ext === "ico") ? `type="image/x-icon"` : '');
     if (appArgs.image !== undefined  && appArgs.image.startsWith("http")) {
-      images += `    <Image height="${img}" width="${img}">${appArgs.image}${data.image[img]}</Image>`;
+      images += `    <Image height="${img}" width="${img}" ${file_type_str}>${appArgs.image}${data.image[img]}</Image>`;
     } else {
-      images += `    <Image height="${img}" width="${img}">${generateDataImage(
+      images += `    <Image height="${img}" width="${img}" ${file_type_str}>${generateDataImage(
         data.image[img]
       )}</Image>`;
     }

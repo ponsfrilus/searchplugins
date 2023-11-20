@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                          xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-    <!-- Last generated on 2023-11-20T17:14:37.662Z -->
+    <!-- Last generated on 2023-11-20T17:26:00.195Z -->
     <ShortName>EPFL Geoportail</ShortName>
     <Description>EPFL Geoportail</Description>
     <InputEncoding>UTF-8</InputEncoding>
-    <Image height="16" width="16">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-geoportail.ico</Image>
-    <Image height="64" width="64">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-geoportail.png</Image>
+    <Image height="16" width="16" type="image/x-icon">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-geoportail.ico</Image>
+    <Image height="64" width="64" type="image/png">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-geoportail.png</Image>
 
     <Url type="text/html" method="get" template="https://geoportail.epfl.ch/?room={searchTerms}"/>
     <moz:SearchForm>https://geoportail.epfl.ch/</moz:SearchForm>

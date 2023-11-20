@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                          xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-    <!-- Last generated on 2023-11-20T17:14:37.665Z -->
+    <!-- Last generated on 2023-11-20T17:26:00.198Z -->
     <ShortName>EPFL Network</ShortName>
     <Description>EPFL Network</Description>
     <InputEncoding>UTF-8</InputEncoding>
-    <Image height="16" width="16">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-network.ico</Image>
-    <Image height="64" width="64">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-network.png</Image>
+    <Image height="16" width="16" type="image/x-icon">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-network.ico</Image>
+    <Image height="64" width="64" type="image/png">https://raw.githubusercontent.com/ponsfrilus/searchplugins/master/./img/epfl-search-network.png</Image>
 
     <Url type="text/html" method="get" template="https://network.epfl.ch/epnet/sre.pl/annuaire?etape=affiche_liste_mach&amp;nom={searchTerms}*&amp;adrip=&amp;unite=&amp;local=&amp;adrether=&amp;resp="/>
     <moz:SearchForm>https://network.epfl.ch/epnet/sre.pl/annuaire</moz:SearchForm>
