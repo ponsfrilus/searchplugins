@@ -1,115 +1,158 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   viewBox="0 0 64 64"
+   width="64.000389"
+   height="63.99979"
+   viewBox="0 0 16.933436 16.933278"
    version="1.1"
-   id="svg886"
-   sodipodi:docname="epfl-search-template.svg"
-   width="64"
-   height="64"
+   id="svg2096"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   inkscape:export-filename="/home/nborboen/Dev/_private/searchplugins/people.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="epfl-search-infoscience.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title1258">EPFL Search plugins favicon template</title>
-  <defs
-     id="defs890" />
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview888"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="true"
+     id="namedview2098"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="8.7890625"
-     inkscape:cx="0.79644444"
-     inkscape:cy="49.208889"
-     inkscape:window-width="2514"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.12"
+     inkscape:cx="17.089844"
+     inkscape:cy="20.214844"
+     inkscape:window-width="3362"
      inkscape:window-height="1376"
-     inkscape:window-x="46"
+     inkscape:window-x="78"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Background"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <g
-       id="g1186"
-       transform="translate(-23.797661,-28.677391)">
+  <defs
+     id="defs2093">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1781">
       <ellipse
-         style="fill:#ff0000;stroke:#ffffff;stroke-width:2.00582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path994"
-         cx="55.797661"
-         cy="60.677391"
-         rx="30.997282"
-         ry="30.996984" />
-    </g>
-  </g>
+         style="fill:#ffffff;stroke-width:1.5669"
+         id="ellipse1783"
+         cx="364.22842"
+         cy="554.98883"
+         rx="39.247501"
+         ry="35.531578"
+         transform="rotate(-45.528751)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1777">
+      <ellipse
+         style="fill:#ffffff;stroke-width:1.64698"
+         id="ellipse1779"
+         cx="453.42273"
+         cy="143.4754"
+         rx="41.253292"
+         ry="37.347462" />
+    </mask>
+  </defs>
   <g
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Logo"
-     style="display:inline">
-    <path
-       sodipodi:type="star"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:4"
-       id="path950"
-       inkscape:flatsided="false"
-       sodipodi:sides="5"
-       sodipodi:cx="22.212139"
-       sodipodi:cy="20.251846"
-       sodipodi:r1="15.645983"
-       sodipodi:r2="7.8229914"
-       sodipodi:arg1="0.78539816"
-       sodipodi:arg2="1.4137167"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       transform="matrix(1.2438452,0,0,1.2438452,5.5840359,8.0223366)"
-       inkscape:transform-center-x="0.94076969"
-       inkscape:transform-center-y="-0.94077068"
-       d="M 33.27552,31.315227 23.435925,27.978524 15.109012,34.192519 15.241803,23.80341 6.7587844,17.804275 16.680449,14.720156 19.764568,4.7984916 25.763703,13.28151 36.152812,13.148719 29.938816,21.475632 Z" />
+     transform="translate(-15.009835,-56.849709)">
+    <g
+       id="g2043"
+       transform="matrix(0.15885516,0,0,0.16245964,-47.740654,40.670091)">
+      <g
+         id="g24-8-3-90"
+         transform="matrix(1.6655634,0,0,1.6286097,395.01732,99.591444)">
+        <g
+           id="layer2-6-8-89"
+           inkscape:label="Background"
+           style="display:inline">
+          <g
+             id="g1186-0-6-3"
+             transform="translate(-23.797661,-28.677391)">
+            <ellipse
+               style="fill:#ff0000;stroke:#ffffff;stroke-width:2.00582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path994-4-0-1"
+               cx="55.797661"
+               cy="60.677391"
+               rx="30.997282"
+               ry="30.996984" />
+          </g>
+        </g>
+        <g
+           id="layer1-3-8-8-4"
+           inkscape:label="Logo"
+           style="display:inline" />
+      </g>
+      <rect
+         id="rect11467-2-9"
+         width="50.988083"
+         height="68.574341"
+         x="425.09613"
+         y="117.6889"
+         style="fill:#ffffff;stroke-width:0.873103" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.516002"
+         id="rect28687-2-6"
+         width="36.410339"
+         height="51.735199"
+         x="432.38501"
+         y="126.61767" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.841417"
+         id="rect28366-3-7"
+         width="25.702188"
+         height="29.974586"
+         x="449.73468"
+         y="115.00358"
+         transform="matrix(0.99999991,4.321626e-4,-2.9939559e-4,0.99999996,0,0)" />
+      <g
+         id="g12539-1-7"
+         transform="matrix(0.73635381,0.75007159,-0.75007159,0.73635381,71.658684,-437.51507)"
+         style="fill:#ff0000;fill-opacity:1">
+        <rect
+           id="rect11617-8-3"
+           width="45.371265"
+           height="23.294905"
+           x="627.20074"
+           y="88.42794"
+           style="fill:#ff0000;fill-opacity:1"
+           mask="url(#mask1781)" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke-width:2.34382"
+         id="rect32333-7-7"
+         width="15.378592"
+         height="17.85709"
+         x="476.93802"
+         y="103.37222"
+         mask="url(#mask1777)" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke-width:2.34382"
+         id="rect39834"
+         width="21.991249"
+         height="10.850468"
+         x="444.16962"
+         y="106.838" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke-width:2.34382"
+         id="rect39834-1"
+         width="21.991249"
+         height="10.850468"
+         x="-153.48407"
+         y="475.46445"
+         transform="rotate(-90.234075)" />
+    </g>
   </g>
-  <metadata
-     id="metadata1254">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>EPFL Search plugins favicon template</dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Nicolas Borboën</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
 </svg>
