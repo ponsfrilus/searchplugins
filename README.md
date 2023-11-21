@@ -63,6 +63,22 @@ convert -background transparent -resize 16 epfl-search-service.svg epfl-search-s
 convert -background transparent -resize 64 epfl-search-service.svg epfl-search-service.png
 ```
 
+Alternatively, you can run this script to do them all:
+
+```bash
+for f in $(ls img/*.svg); do 
+    echo "Generating ico and png for $f";
+    filename=$(basename -- "$f")
+    extension="${filename##*.}"
+    filename="${filename%.*}"
+    convert -background transparent -resize 16 $f img/$filename.ico
+    convert -background transparent -resize 64 $f img/$filename.png
+done
+```
+
+
+
+
 You can use [epfl-search-tempalte.svg](./img/epfl-search-tempalte.svg) as
 template to create new search plugins.
 
